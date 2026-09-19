@@ -17,7 +17,6 @@ System.out.println();
 }
 
 
-
 output:
         *
        ***
