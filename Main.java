@@ -1,7 +1,4 @@
- This is the bolier plate of java 
-
-
-
+ This is the bolier plate of java
 
 
 class main{
